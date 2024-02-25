@@ -25,3 +25,4 @@ In this project, I find optimal paths in video game maps using pathfinding algor
 * To change the map, change line 27 in main.py to the file path for the map.
 * To get the plots run with "--plots"
 * To understand usage run with "-help"
+* To change start and goals edit "test-instances/testinstances"
